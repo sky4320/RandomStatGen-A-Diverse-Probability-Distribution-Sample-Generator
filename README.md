@@ -86,8 +86,8 @@ Make sure you have Python installed on your system and have the required depende
 
 ## Author
 
-Siva Keshav Yalamandala
-  Email: sxy3510@mavs.uta.edu
+Siva Keshav Yalamandala  
+Email: sxy3510@mavs.uta.edu
 
 ## License
 
